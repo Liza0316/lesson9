@@ -411,12 +411,25 @@ box-shadow:-5px 29px 39px -11px rgba(245, 56, 56, 0.35);
     margin-top:24px;
 }
 
+.icon-spaaan{
+    width: 135px;
+    margin-left: 150px;
+    margin-right: 845px;
+}
+
 .material-symbols-outlined{
     width: 30px;
     color: #F53838;
    background: url(../imgs/Ellipse\ 169.svg);
    background-size: 24px;
    background-repeat: no-repeat;
+}
+
+.material-symbols-outlined1{
+    color: #FFF;
+    background: url(../imgs/Ellipse.png);
+    background-size: 24px;
+    background-repeat: no-repeat;
 }
 /* end review */
 
@@ -452,6 +465,27 @@ footer{
     display: flex;
     justify-content: space-between;
     align-items: stretch;
+}
+
+.footer-social{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.facebook{
+    max-width: 33px;
+    max-height: 33px;
+}
+
+.twiter{
+    max-width: 33px;
+    max-height: 33px;
+}
+
+.instagram{
+    max-width: 33px;
+    max-height: 33px;
 }
 
 .footer-half{
